@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Member
+title: Members
 permalink: /member/
 ---
 
@@ -15,4 +15,9 @@ hi i'm wooeong
 
 <pre>
 i'm juno
+</pre>
+
+### bincat
+<pre>
+hi
 </pre>
