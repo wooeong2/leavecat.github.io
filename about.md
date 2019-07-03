@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<img src='https://i.imgur.com/Q9ZsDAZ.png'>
+<img src='images/leavecat.jpg'>
+
+LeaveCat is korean hacking team.
